@@ -1,4 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://userId:password@localhost:27017/database
